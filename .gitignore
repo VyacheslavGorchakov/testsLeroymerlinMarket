@@ -30,5 +30,5 @@ syntax: glob
 
 # folders
 target/
-idea/
+.idea/
 build/
