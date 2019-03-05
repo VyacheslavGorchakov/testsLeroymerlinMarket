@@ -1,0 +1,34 @@
+# Idea files
+.idea
+.*\.iml
+*.iml
+
+# Maven files
+target
+
+# Jdbc files
+*.jrnl
+.*\.jrnl
+.*/.jrnl
+*.log
+.*\.log
+.*/.log
+
+# Local configuration
+local.properties
+
+# Selenide files
+build
+syntax: glob
+.*\.orig
+*.orig
+*.html
+
+#git
+*.git/
+*.gitlab-ci.yml
+
+# folders
+target/
+idea/
+build/
