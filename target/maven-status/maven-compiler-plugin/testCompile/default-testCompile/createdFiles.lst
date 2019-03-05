@@ -1,7 +1,0 @@
-tests\RegisterTest.class
-page_objects\MainPage.class
-page_elements\LoginElement.class
-project_settings\TestBase.class
-page_elements\HeaderElement.class
-tests\LoginTest.class
-page_objects\RegisterPage.class
